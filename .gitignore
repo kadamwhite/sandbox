@@ -2,3 +2,5 @@ node_modules
 server.js
 test.js
 package.json
+*.html~
+
